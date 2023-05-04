@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+<div id="contaner">
+    <h1>BROOKLYN NINE NINE</h1>
+
+    <img src="https://s2.glbimg.com/yU0nkAc27aW_c_282kaJIMX_Vt0=/0x0:1200x800/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/y/q/AFPWAvSJ2FzJBDMwu2Cw/50.png" alt="">
+    
+    <p>Jake Peralta é um detetive brilhante e ao mesmo tempo imaturo, que nunca precisou se preocupar em respeitar as regras. Tudo muda quando um capitão exigente assume o comando de seu esquadrão e Jake deve aprender a trabalhar em equipe.</p>
+    
+    <p>a série é um comédia polícial para jovens adolecentes e adultos, a série tem atores como Terry Crews,Andy Samberg Melissa Fumero e muitos outros astros do cinema
+        possui um forte público, e esse mesmo público pede uma 10 temporada,já que a série só tem 9, e os atores e atrises são muito jovem,com esseção de alguns é claro
+     </p>
+    
+        
+    <h2>PERSONAGENS</h2>
+    
+    
+    <li>Jake Peralta</li>
+    <li>Rosa</li>
+    <li>Amy Santiago</li>
+    <li>Gina Linetti</li>
+    <li>Ray Holt</li>
+    <li>Boyel</li>
+    <li>Terry</li>
+    <li>Scully</li>
+    <li>Hitchcock</li>
+    
+    <h1>NOTA POR TEMPORADA</h1>
+    
+    <table border="1px">
+    <tr>
+        <th>TEMPORADA</th>
+        <th>NOTAS</th>
+    </tr>
+    <tr>
+        <td>TEMP 1</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>TEMP 2</td>
+        <td>10</td>
+    </tr>
+    <tr>
+    <td>TEMP 3</td>
+    <td>10</td>
+    </tr>
+    <tr>
+    <td>TEMP 4</td>
+    <td>9</td>
+    </tr>
+    <tr>
+    <td>TEMP 5</td>
+    <td>8</td>
+    </tr>
+    <tr>
+    <td>TEMP 6</td>
+    <td>7</td>
+    </tr>
+    <tr>
+    <td>TEMP 7</td>
+    <td>9</td>
+    </tr>
+    <tr>
+    <td>TEMP 8</td>
+    <td>8</td>
+    </tr>
+    <tr>
+    <td>TEMP 9</td>
+    <td>9</td>
+    </tr>
+    </table>
+
+</div>
+   
+<a href="plataformas.html">Plataformas Para Assistir</a>
+
+
+
+</body>
+</html>
